@@ -11,4 +11,7 @@ Projeto meramente para meta de aprendizado
 Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Docker](https://docs.docker.com/get-docker/) para que possa startar o projeto. Conforme infomado acima nas badges o projeto usará algumas tecnologias que precisam esta versão apontado ou maior.
 
 ### Pré-Requisito
-- [Node.js](https://nodejs.org/pt)
+- Node.js
+- nvm
+- npm
+- Nest.js
