@@ -5,3 +5,7 @@
 ![Projeto NestJS](https://img.shields.io/badge/NestJS-10.3.10-%23E0234E?logo=nestjs)
 
 Projeto meramente para meta de aprendizado
+
+## Começando
+
+Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Docker](https://docs.docker.com/get-docker/) para que possa subir o ambiente.
