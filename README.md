@@ -20,6 +20,7 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 Crie um diretório para o projeto dentro de home.
 ```sh
 mkdir project-nest
+cd project-nest
 ```
 Instale o Node.js
 
@@ -30,4 +31,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ##### # layouts.download.codeBox.downloadAndInstallNodejsRestartTerminal
 ```sh
 nvm install 20
+```
+##### Instalar o Nest.js
+```sh
+npm i -g @nestjs/cli
 ```
