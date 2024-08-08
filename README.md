@@ -23,7 +23,7 @@ mkdir project-nest
 ```
 Instale o Node.js
 
-#layouts.download.codeBox.installsNvm
+### layouts.download.codeBox.installsNvm
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
