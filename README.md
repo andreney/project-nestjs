@@ -4,7 +4,7 @@
 ![Projeto npm](https://img.shields.io/badge/npm-10.8.1-%23CB3837?logo=npm)
 ![Projeto NestJS](https://img.shields.io/badge/NestJS-10.3.10-%23E0234E?logo=nestjs)
 
-Projeto meramente para meta de aprendizado
+> Projeto meramente para meta de aprendizado
 
 ## Começando
 
