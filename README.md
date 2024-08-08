@@ -15,3 +15,6 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 - nvm
 - npm
 - Nest.js
+
+### Instalações
+  dts
