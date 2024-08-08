@@ -27,3 +27,7 @@ Instale o Node.js
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
+##### # layouts.download.codeBox.downloadAndInstallNodejsRestartTerminal
+```sh
+nvm install 20
+```
