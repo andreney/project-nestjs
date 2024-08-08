@@ -17,5 +17,6 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 - Nest.js
 
 ### Instalações
-
-  mkdir project-nest
+```sh
+npm install my-crazy-module --save
+```
