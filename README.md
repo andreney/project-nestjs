@@ -8,7 +8,7 @@ Projeto meramente para meta de aprendizado
 
 ## Começando
 
-Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Docker](https://docs.docker.com/get-docker/) para que possa startar o projeto. Conforme infomado acima nas badges o projeto usará algumas tecnologias que precisam estar na versão indicada ou maior. Recomenda-se o uso da ferramenta [VS Code](https://code.visualstudio.com/) pela vasta quantidade de extensões e integração.
+Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Docker](https://docs.docker.com/get-docker/) para que possa startar o projeto. Conforme infomado acima nas badges o projeto usará algumas tecnologias que precisam estar na versão indicada ou maior. Recomenda-se o uso da ferramenta [VS Code](https://code.visualstudio.com/) pela vasta quantidade de extensões e integração. O processo de instalação descrito tem como máquina um PC Windows com WSL Ubuntu.
 
 ### Pré-Requisito
 - Node.js
@@ -17,4 +17,5 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 - Nest.js
 
 ### Instalações
-  dts
+
+  mkdir project-nest
