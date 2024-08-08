@@ -20,6 +20,8 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 Crie um diretório para o projeto dentro de home.
 ```sh
 mkdir project-nest
+```
+```sh
 cd project-nest
 ```
 Instale o Node.js
