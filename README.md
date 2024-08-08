@@ -17,7 +17,7 @@ Este projeto usará o ambiente docker portanto, antes de iniciar instale o [Dock
 - Nest.js
 
 ### Instalações
-Na pasta home crie a pasta do projeto
+Crie um diretório para o projeto dentro de home.
 ```sh
 mkdir project-nest
 ```
