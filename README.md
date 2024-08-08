@@ -39,7 +39,7 @@ nvm install 20
 npm i -g @nestjs/cli
 ```
 <!--ts-->
-   * [Sobre](##Começando)
+   * [Sobre](#Começando)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
